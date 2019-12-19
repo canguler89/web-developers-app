@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://can123:can123456@devconnector-t83zq.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
